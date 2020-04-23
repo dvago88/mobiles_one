@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TallerCondicionalesEjer27</string>
+    <string name="main_activity_title">Calcular Pulsaciones</string>
+    <string name="age_text_view">Edad</string>
+    <string name="sex_text_view">Género</string>
+    <string name="age_edit_text">30</string>
+    <string name="gender_edit_text">Masculino</string>
+    <string name="calculate_button">Calcular</string>
+    <string name="layout_two_button">ir al lallaut</string>
+    <string name="result_title_text_view">Resultados</string>
+    <string name="number_pulsations_text_view">Número pulsaciones</string>
+</resources>
